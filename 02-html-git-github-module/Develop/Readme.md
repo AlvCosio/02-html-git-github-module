@@ -1,0 +1,2 @@
+Purpose of project was to make the code easily accessible to people with disablitiies. Separation of some of the divs make it just a bit easier to distinguish sections. 
+Changes were made to code but not to project or site itself to create optimization. 
